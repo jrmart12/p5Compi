@@ -1,3 +1,0 @@
-/home/pablo/Documents/Clases/Compiladores1/PruebasCompiladores1/BottomUpParser_Prueba3/build/CMakeFiles/rebuild_cache.dir
-/home/pablo/Documents/Clases/Compiladores1/PruebasCompiladores1/BottomUpParser_Prueba3/build/CMakeFiles/sr_parser.dir
-/home/pablo/Documents/Clases/Compiladores1/PruebasCompiladores1/BottomUpParser_Prueba3/build/CMakeFiles/edit_cache.dir
