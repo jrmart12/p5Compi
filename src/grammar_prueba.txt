@@ -1,0 +1,17 @@
+input -> stmt_list ;
+
+stmt_list -> stmt_list ; stmt
+stmt_list -> stmt
+
+stmt -> ID ASSIGN expr
+stmt -> PRINT expr
+
+expr -> expr SUM term
+expr -> term
+
+term -> term MULT factor
+term -> factor
+
+factor -> ID
+factor -> NUMBER
+factor -> OPEN_PAREN expr CLOSE_PAREN

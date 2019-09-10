@@ -1,0 +1,4 @@
+var = 54;
+print var; print 87;
+
+hola = 4; print 4;

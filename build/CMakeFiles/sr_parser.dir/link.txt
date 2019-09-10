@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sr_parser.dir/src/main.cpp.o CMakeFiles/sr_parser.dir/src/ExprLexer.cpp.o CMakeFiles/sr_parser.dir/src/Parser.cpp.o CMakeFiles/sr_parser.dir/src/Tables.cpp.o  -o sr_parser -static-libgcc -static-libstdc++ -L/usr/X11/lib -lX11 -lstdc++ 
